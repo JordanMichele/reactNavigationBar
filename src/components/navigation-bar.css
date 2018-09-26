@@ -1,0 +1,15 @@
+.navigation-bar h1,
+.navigation-bar nav,
+.navigation-bar-nav li {
+  display: inline-block;
+  line-height: 50px;
+  vertical-align: 10px;
+}
+
+.navigation-bar-nav li {
+  margin-right: 10px;
+}
+
+.navigation-bar {
+  border-bottom: 5px solid black;
+}
